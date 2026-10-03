@@ -1,0 +1,708 @@
+First Name,Middle Name,Last Name,Gender,City,Education,Occupation,Annual Income
+Vishal,Mohan,Thorat,Female,Pune,B.E. Computer Science,Bank Officer,2400000.00
+Riya,Mohan,Mane,Female,Pune,M.Tech Computer Science,Business Owner,2400000.00
+Riya,Mohan,Mane,Female,Pune,M.Tech Computer Science,Business Owner,2400000.00
+Vishal,Mohan,Thorat,Female,Pune,B.E. Computer Science,Bank Officer,2400000.00
+Bhakti,Milind,Bhosale,Female,Pune,Diploma in Computer Engineering,Mechanical Engineer,2400000.00
+Prachi,Mahesh,Salunkhe,Female,Mumbai,B.E. Computer Science,Sales Executive,2400000.00
+Vijay,Ravindra,Sawant,Female,Pune,MCA,Doctor,2400000.00
+Arjun,Vijay,More,Female,Pune,M.Sc. IT,Software Engineer,2400000.00
+Vijay,Sunil,Inamdar,Female,Pune,BCA,Data Analyst,2400000.00
+Ananya,Ajay,Pote,Female,Pune,B.Com.,Project Manager,2400000.00
+Bhakti,Milind,Bhosale,Female,Pune,Diploma in Computer Engineering,Mechanical Engineer,2400000.00
+Vijay,Ravindra,Sawant,Female,Pune,MCA,Doctor,2400000.00
+Arjun,Ganesh,Joshi,Female,Pune,MBA,Data Analyst,2400000.00
+Aniket,Dilip,Gaikwad,Female,Pune,B.Sc. Computer Science,Project Manager,2400000.00
+Arjun,Vijay,More,Female,Pune,M.Sc. IT,Software Engineer,2400000.00
+Ananya,Ajay,Pote,Female,Pune,B.Com.,Project Manager,2400000.00
+Ananya,Ajay,Pote,Female,Pune,B.Com.,Project Manager,2400000.00
+Aniket,Dilip,Gaikwad,Female,Pune,B.Sc. Computer Science,Project Manager,2400000.00
+Rutuja,Dilip,Pawar,Female,Pune,B.E. Computer Science,Data Analyst,2400000.00
+Isha,Ravindra,Pote,Female,Mumbai,Diploma in Computer Engineering,Doctor,2400000.00
+Bhakti,Milind,Bhosale,Female,Pune,Diploma in Computer Engineering,Mechanical Engineer,2400000.00
+Bhakti,Milind,Bhosale,Female,Pune,Diploma in Computer Engineering,Mechanical Engineer,2400000.00
+Prachi,Mahesh,Salunkhe,Female,Mumbai,B.E. Computer Science,Sales Executive,2400000.00
+Prachi,Mahesh,Salunkhe,Female,Mumbai,B.E. Computer Science,Sales Executive,2400000.00
+Vijay,Ravindra,Sawant,Female,Pune,MCA,Doctor,2400000.00
+Arjun,Vijay,More,Female,Pune,M.Sc. IT,Software Engineer,2400000.00
+Rutuja,Dilip,Pawar,Female,Pune,B.E. Computer Science,Data Analyst,2400000.00
+Pranav,Dattatray,Mane,Female,Pune,M.Tech Computer Science,Web Developer,2400000.00
+Vijay,Ravindra,Sawant,Female,Pune,MCA,Doctor,2400000.00
+Arjun,Ganesh,Joshi,Female,Pune,MBA,Data Analyst,2400000.00
+Arjun,Ganesh,Joshi,Female,Pune,MBA,Data Analyst,2400000.00
+Rutuja,Dilip,Pawar,Female,Pune,B.E. Computer Science,Data Analyst,2400000.00
+Bhakti,Suresh,Shinde,Female,Mumbai,BCA,Business Owner,2400000.00
+Tanvi,Dattatray,Deshmukh,Female,Pune,B.Com.,Business Owner,2400000.00
+Isha,Ravindra,Pote,Female,Mumbai,Diploma in Computer Engineering,Doctor,2400000.00
+Vishal,Mohan,Thorat,Female,Pune,B.E. Computer Science,Bank Officer,2400000.00
+Isha,Ravindra,Pote,Female,Mumbai,Diploma in Computer Engineering,Doctor,2400000.00
+Diya,Ajay,Desai,Female,Pune,MBA,Doctor,2400000.00
+Riya,Mohan,Mane,Female,Pune,M.Tech Computer Science,Business Owner,2400000.00
+Rutuja,Dilip,Pawar,Female,Pune,B.E. Computer Science,Data Analyst,2400000.00
+Pranav,Dattatray,Mane,Female,Pune,M.Tech Computer Science,Web Developer,2400000.00
+Pranav,Dattatray,Mane,Female,Pune,M.Tech Computer Science,Web Developer,2400000.00
+Riya,Mohan,Mane,Female,Pune,M.Tech Computer Science,Business Owner,2400000.00
+Diya,Ajay,Desai,Female,Pune,MBA,Doctor,2400000.00
+Tanvi,Dattatray,Deshmukh,Female,Pune,B.Com.,Business Owner,2400000.00
+Bhakti,Suresh,Shinde,Female,Mumbai,BCA,Business Owner,2400000.00
+Vijay,Sunil,Inamdar,Female,Pune,BCA,Data Analyst,2400000.00
+Ananya,Ajay,Pote,Female,Pune,B.Com.,Project Manager,2400000.00
+Bhakti,Suresh,Shinde,Female,Mumbai,BCA,Business Owner,2400000.00
+Tanvi,Dattatray,Deshmukh,Female,Pune,B.Com.,Business Owner,2400000.00
+Diya,Ajay,Desai,Female,Pune,MBA,Doctor,2400000.00
+Riya,Mohan,Mane,Female,Pune,M.Tech Computer Science,Business Owner,2400000.00
+Vishal,Mohan,Thorat,Female,Pune,B.E. Computer Science,Bank Officer,2400000.00
+Bhakti,Milind,Bhosale,Female,Pune,Diploma in Computer Engineering,Mechanical Engineer,2400000.00
+Vishal,Mohan,Thorat,Female,Pune,B.E. Computer Science,Bank Officer,2400000.00
+Diya,Ajay,Desai,Female,Pune,MBA,Doctor,2400000.00
+Aniket,Dilip,Gaikwad,Female,Pune,B.Sc. Computer Science,Project Manager,2400000.00
+Arjun,Vijay,More,Female,Pune,M.Sc. IT,Software Engineer,2400000.00
+Vijay,Sunil,Inamdar,Female,Pune,BCA,Data Analyst,2400000.00
+Riya,Mohan,Mane,Female,Pune,M.Tech Computer Science,Business Owner,2400000.00
+Prachi,Mahesh,Salunkhe,Female,Mumbai,B.E. Computer Science,Sales Executive,2400000.00
+Vijay,Ravindra,Sawant,Female,Pune,MCA,Doctor,2400000.00
+Aniket,Dilip,Gaikwad,Female,Pune,B.Sc. Computer Science,Project Manager,2400000.00
+Vijay,Sunil,Inamdar,Female,Pune,BCA,Data Analyst,2400000.00
+Ananya,Ajay,Pote,Female,Pune,B.Com.,Project Manager,2400000.00
+Vijay,Sunil,Inamdar,Female,Pune,BCA,Data Analyst,2400000.00
+Ananya,Ajay,Pote,Female,Pune,B.Com.,Project Manager,2400000.00
+Bhakti,Milind,Bhosale,Female,Pune,Diploma in Computer Engineering,Mechanical Engineer,2400000.00
+Isha,Ravindra,Pote,Female,Mumbai,Diploma in Computer Engineering,Doctor,2400000.00
+Bhakti,Milind,Bhosale,Female,Pune,Diploma in Computer Engineering,Mechanical Engineer,2400000.00
+Arjun,Ganesh,Joshi,Female,Pune,MBA,Data Analyst,2400000.00
+Prachi,Mahesh,Salunkhe,Female,Mumbai,B.E. Computer Science,Sales Executive,2400000.00
+Aniket,Dilip,Gaikwad,Female,Pune,B.Sc. Computer Science,Project Manager,2400000.00
+Arjun,Vijay,More,Female,Pune,M.Sc. IT,Software Engineer,2400000.00
+Rutuja,Dilip,Pawar,Female,Pune,B.E. Computer Science,Data Analyst,2400000.00
+Aniket,Dilip,Gaikwad,Female,Pune,B.Sc. Computer Science,Project Manager,2400000.00
+Arjun,Vijay,More,Female,Pune,M.Sc. IT,Software Engineer,2400000.00
+Isha,Ravindra,Pote,Female,Mumbai,Diploma in Computer Engineering,Doctor,2400000.00
+Pranav,Dattatray,Mane,Female,Pune,M.Tech Computer Science,Web Developer,2400000.00
+Prachi,Mahesh,Salunkhe,Female,Mumbai,B.E. Computer Science,Sales Executive,2400000.00
+Vijay,Ravindra,Sawant,Female,Pune,MCA,Doctor,2400000.00
+Arjun,Ganesh,Joshi,Female,Pune,MBA,Data Analyst,2400000.00
+Prachi,Mahesh,Salunkhe,Female,Mumbai,B.E. Computer Science,Sales Executive,2400000.00
+Vijay,Ravindra,Sawant,Female,Pune,MCA,Doctor,2400000.00
+Tanvi,Dattatray,Deshmukh,Female,Pune,B.Com.,Business Owner,2400000.00
+Pranav,Dattatray,Mane,Female,Pune,M.Tech Computer Science,Web Developer,2400000.00
+Diya,Ajay,Desai,Female,Pune,MBA,Doctor,2400000.00
+Arjun,Ganesh,Joshi,Female,Pune,MBA,Data Analyst,2400000.00
+Isha,Ravindra,Pote,Female,Mumbai,Diploma in Computer Engineering,Doctor,2400000.00
+Arjun,Ganesh,Joshi,Female,Pune,MBA,Data Analyst,2400000.00
+Rutuja,Dilip,Pawar,Female,Pune,B.E. Computer Science,Data Analyst,2400000.00
+Tanvi,Dattatray,Deshmukh,Female,Pune,B.Com.,Business Owner,2400000.00
+Rutuja,Dilip,Pawar,Female,Pune,B.E. Computer Science,Data Analyst,2400000.00
+Bhakti,Suresh,Shinde,Female,Mumbai,BCA,Business Owner,2400000.00
+Pranav,Dattatray,Mane,Female,Pune,M.Tech Computer Science,Web Developer,2400000.00
+Riya,Mohan,Mane,Female,Pune,M.Tech Computer Science,Business Owner,2400000.00
+Isha,Ravindra,Pote,Female,Mumbai,Diploma in Computer Engineering,Doctor,2400000.00
+Vishal,Mohan,Thorat,Female,Pune,B.E. Computer Science,Bank Officer,2400000.00
+Bhakti,Suresh,Shinde,Female,Mumbai,BCA,Business Owner,2400000.00
+Tanvi,Dattatray,Deshmukh,Female,Pune,B.Com.,Business Owner,2400000.00
+Pranav,Dattatray,Mane,Female,Pune,M.Tech Computer Science,Web Developer,2400000.00
+Vijay,Sunil,Inamdar,Female,Pune,BCA,Data Analyst,2400000.00
+Vishal,Mohan,Thorat,Female,Pune,B.E. Computer Science,Bank Officer,2400000.00
+Diya,Ajay,Desai,Female,Pune,MBA,Doctor,2400000.00
+Diya,Ajay,Desai,Female,Pune,MBA,Doctor,2400000.00
+Ananya,Ajay,Pote,Female,Pune,B.Com.,Project Manager,2400000.00
+Bhakti,Suresh,Shinde,Female,Mumbai,BCA,Business Owner,2400000.00
+Tanvi,Dattatray,Deshmukh,Female,Pune,B.Com.,Business Owner,2400000.00
+Aniket,Dilip,Gaikwad,Female,Pune,B.Sc. Computer Science,Project Manager,2400000.00
+Arjun,Vijay,More,Female,Pune,M.Sc. IT,Software Engineer,2400000.00
+Bhakti,Suresh,Shinde,Female,Mumbai,BCA,Business Owner,2400000.00
+Vijay,Sunil,Inamdar,Female,Pune,BCA,Data Analyst,2400000.00
+Manish,Ravindra,Yadav,Female,Pune,B.Com.,Project Manager,1800000.00
+Manish,Vijay,Salunkhe,Female,Pune,M.Tech Computer Science,Bank Officer,1800000.00
+Pranav,Sunil,Kamble,Female,Pune,Diploma in Computer Engineering,Data Analyst,1800000.00
+Mayur,Sunil,Khot,Female,Pune,MCA,Data Analyst,1800000.00
+Manish,Ravindra,Yadav,Female,Pune,B.Com.,Project Manager,1800000.00
+Manish,Vijay,Salunkhe,Female,Pune,M.Tech Computer Science,Bank Officer,1800000.00
+Pooja,Dattatray,Naik,Female,Pune,MCA,Mechanical Engineer,1800000.00
+Manish,Ravindra,Yadav,Female,Pune,B.Com.,Project Manager,1800000.00
+Pooja,Dattatray,Naik,Female,Pune,MCA,Mechanical Engineer,1800000.00
+Pooja,Dattatray,Naik,Female,Pune,MCA,Mechanical Engineer,1800000.00
+Pranav,Sunil,Kamble,Female,Pune,Diploma in Computer Engineering,Data Analyst,1800000.00
+Vidya,Milind,Kamble,Female,Mumbai,MBA,Business Owner,1800000.00
+Pallavi,Dilip,More,Female,Pune,M.Sc. IT,Accountant,1800000.00
+Pranav,Sunil,Kamble,Female,Pune,Diploma in Computer Engineering,Data Analyst,1800000.00
+Mayur,Sunil,Khot,Female,Pune,MCA,Data Analyst,1800000.00
+Mayur,Sunil,Khot,Female,Pune,MCA,Data Analyst,1800000.00
+Vidya,Vivek,Pawar,Female,Pune,B.Sc. Computer Science,Accountant,1800000.00
+Pallavi,Dilip,More,Female,Pune,M.Sc. IT,Accountant,1800000.00
+Siddharth,Shankar,Sawant,Female,Mumbai,MBA,Business Owner,1800000.00
+Vidya,Milind,Kamble,Female,Mumbai,MBA,Business Owner,1800000.00
+Vidya,Vivek,Pawar,Female,Pune,B.Sc. Computer Science,Accountant,1800000.00
+Aarav,Shankar,Bhosale,Female,Pune,M.Tech Computer Science,Bank Officer,1800000.00
+Pallavi,Dilip,More,Female,Pune,M.Sc. IT,Accountant,1800000.00
+Siddharth,Shankar,Sawant,Female,Mumbai,MBA,Business Owner,1800000.00
+Vidya,Milind,Kamble,Female,Mumbai,MBA,Business Owner,1800000.00
+Vidya,Milind,Kamble,Female,Mumbai,MBA,Business Owner,1800000.00
+Vidya,Vivek,Pawar,Female,Pune,B.Sc. Computer Science,Accountant,1800000.00
+Vidya,Vivek,Pawar,Female,Pune,B.Sc. Computer Science,Accountant,1800000.00
+Siddharth,Shankar,Sawant,Female,Mumbai,MBA,Business Owner,1800000.00
+Aarav,Shankar,Bhosale,Female,Pune,M.Tech Computer Science,Bank Officer,1800000.00
+Manish,Ravindra,Yadav,Female,Pune,B.Com.,Project Manager,1800000.00
+Pallavi,Dilip,More,Female,Pune,M.Sc. IT,Accountant,1800000.00
+Siddharth,Shankar,Sawant,Female,Mumbai,MBA,Business Owner,1800000.00
+Manish,Vijay,Salunkhe,Female,Pune,M.Tech Computer Science,Bank Officer,1800000.00
+Aarav,Shankar,Bhosale,Female,Pune,M.Tech Computer Science,Bank Officer,1800000.00
+Aarav,Shankar,Bhosale,Female,Pune,M.Tech Computer Science,Bank Officer,1800000.00
+Pooja,Dattatray,Naik,Female,Pune,MCA,Mechanical Engineer,1800000.00
+Pranav,Sunil,Kamble,Female,Pune,Diploma in Computer Engineering,Data Analyst,1800000.00
+Pooja,Dattatray,Naik,Female,Pune,MCA,Mechanical Engineer,1800000.00
+Mayur,Sunil,Khot,Female,Pune,MCA,Data Analyst,1800000.00
+Manish,Vijay,Salunkhe,Female,Pune,M.Tech Computer Science,Bank Officer,1800000.00
+Manish,Ravindra,Yadav,Female,Pune,B.Com.,Project Manager,1800000.00
+Pranav,Sunil,Kamble,Female,Pune,Diploma in Computer Engineering,Data Analyst,1800000.00
+Manish,Ravindra,Yadav,Female,Pune,B.Com.,Project Manager,1800000.00
+Manish,Vijay,Salunkhe,Female,Pune,M.Tech Computer Science,Bank Officer,1800000.00
+Mayur,Sunil,Khot,Female,Pune,MCA,Data Analyst,1800000.00
+Pooja,Dattatray,Naik,Female,Pune,MCA,Mechanical Engineer,1800000.00
+Pranav,Sunil,Kamble,Female,Pune,Diploma in Computer Engineering,Data Analyst,1800000.00
+Vidya,Milind,Kamble,Female,Mumbai,MBA,Business Owner,1800000.00
+Vidya,Vivek,Pawar,Female,Pune,B.Sc. Computer Science,Accountant,1800000.00
+Mayur,Sunil,Khot,Female,Pune,MCA,Data Analyst,1800000.00
+Vidya,Milind,Kamble,Female,Mumbai,MBA,Business Owner,1800000.00
+Pallavi,Dilip,More,Female,Pune,M.Sc. IT,Accountant,1800000.00
+Siddharth,Shankar,Sawant,Female,Mumbai,MBA,Business Owner,1800000.00
+Pranav,Sunil,Kamble,Female,Pune,Diploma in Computer Engineering,Data Analyst,1800000.00
+Mayur,Sunil,Khot,Female,Pune,MCA,Data Analyst,1800000.00
+Aarav,Shankar,Bhosale,Female,Pune,M.Tech Computer Science,Bank Officer,1800000.00
+Vidya,Milind,Kamble,Female,Mumbai,MBA,Business Owner,1800000.00
+Vidya,Vivek,Pawar,Female,Pune,B.Sc. Computer Science,Accountant,1800000.00
+Vidya,Vivek,Pawar,Female,Pune,B.Sc. Computer Science,Accountant,1800000.00
+Pallavi,Dilip,More,Female,Pune,M.Sc. IT,Accountant,1800000.00
+Siddharth,Shankar,Sawant,Female,Mumbai,MBA,Business Owner,1800000.00
+Manish,Vijay,Salunkhe,Female,Pune,M.Tech Computer Science,Bank Officer,1800000.00
+Pallavi,Dilip,More,Female,Pune,M.Sc. IT,Accountant,1800000.00
+Siddharth,Shankar,Sawant,Female,Mumbai,MBA,Business Owner,1800000.00
+Aarav,Shankar,Bhosale,Female,Pune,M.Tech Computer Science,Bank Officer,1800000.00
+Manish,Vijay,Salunkhe,Female,Pune,M.Tech Computer Science,Bank Officer,1800000.00
+Aarav,Shankar,Bhosale,Female,Pune,M.Tech Computer Science,Bank Officer,1800000.00
+Manish,Ravindra,Yadav,Female,Pune,B.Com.,Project Manager,1800000.00
+Pooja,Dattatray,Naik,Female,Pune,MCA,Mechanical Engineer,1800000.00
+Aditi,Santosh,Desai,Female,Pune,M.Com.,Bank Officer,1500000.00
+Shubham,Rajendra,Sawant,Female,Mumbai,Diploma in Computer Engineering,Web Developer,1500000.00
+Darshan,Sunil,Gaikwad,Female,Mumbai,B.Com.,Accountant,1500000.00
+Aditi,Santosh,Desai,Female,Pune,M.Com.,Bank Officer,1500000.00
+Nilesh,Santosh,Joshi,Female,Pune,Diploma in Computer Engineering,Business Owner,1500000.00
+Mayur,Shankar,Chavan,Female,Pune,BCA,Bank Officer,1500000.00
+Mayur,Shankar,Chavan,Female,Pune,BCA,Bank Officer,1500000.00
+Rutuja,Ramesh,Pote,Female,Mumbai,BBA,Business Analyst,1500000.00
+Nilesh,Santosh,Joshi,Female,Pune,Diploma in Computer Engineering,Business Owner,1500000.00
+Darshan,Sunil,Gaikwad,Female,Mumbai,B.Com.,Accountant,1500000.00
+Nilesh,Santosh,Joshi,Female,Pune,Diploma in Computer Engineering,Business Owner,1500000.00
+Chetan,Shankar,Mane,Female,Mumbai,MCA,Sales Executive,1500000.00
+Bhakti,Santosh,Ghatge,Female,Mumbai,B.E. Computer Science,Bank Officer,1500000.00
+Bhakti,Santosh,Ghatge,Female,Mumbai,B.E. Computer Science,Bank Officer,1500000.00
+Rutuja,Ramesh,Pote,Female,Mumbai,BBA,Business Analyst,1500000.00
+Aarav,Ajay,More,Female,Mumbai,Diploma in Computer Engineering,Sales Executive,1500000.00
+Darshan,Ramesh,More,Female,Mumbai,B.E. Computer Science,Sales Executive,1500000.00
+Aarav,Ajay,More,Female,Mumbai,Diploma in Computer Engineering,Sales Executive,1500000.00
+Chetan,Shankar,Mane,Female,Mumbai,MCA,Sales Executive,1500000.00
+Rahul,Ganesh,Chavan,Female,Mumbai,B.Sc. Computer Science,Project Manager,1500000.00
+Shubham,Rajendra,Sawant,Female,Mumbai,Diploma in Computer Engineering,Web Developer,1500000.00
+Shubham,Rajendra,Sawant,Female,Mumbai,Diploma in Computer Engineering,Web Developer,1500000.00
+Darshan,Sunil,Gaikwad,Female,Mumbai,B.Com.,Accountant,1500000.00
+Sameer,Nitin,Chavan,Female,Pune,B.E. Computer Science,Data Analyst,1500000.00
+Rutuja,Ramesh,Pote,Female,Mumbai,BBA,Business Analyst,1500000.00
+Darshan,Sunil,Gaikwad,Female,Mumbai,B.Com.,Accountant,1500000.00
+Sanket,Nitin,Salunkhe,Female,Mumbai,MCA,Project Manager,1500000.00
+Sameer,Nitin,Chavan,Female,Pune,B.E. Computer Science,Data Analyst,1500000.00
+Rutuja,Ganesh,Mali,Female,Mumbai,B.Com.,Graphic Designer,1500000.00
+Rutuja,Ramesh,Pote,Female,Mumbai,BBA,Business Analyst,1500000.00
+Darshan,Ramesh,More,Female,Mumbai,B.E. Computer Science,Sales Executive,1500000.00
+Siddharth,Prakash,Pote,Female,Pune,M.Com.,HR Executive,1500000.00
+Darshan,Ramesh,More,Female,Mumbai,B.E. Computer Science,Sales Executive,1500000.00
+Sameer,Nitin,Chavan,Female,Pune,B.E. Computer Science,Data Analyst,1500000.00
+Rahul,Ganesh,Chavan,Female,Mumbai,B.Sc. Computer Science,Project Manager,1500000.00
+Kunal,Ganesh,Pawar,Female,Mumbai,BBA,Software Engineer,1500000.00
+Sameer,Nitin,Chavan,Female,Pune,B.E. Computer Science,Data Analyst,1500000.00
+Rahul,Ganesh,Chavan,Female,Mumbai,B.Sc. Computer Science,Project Manager,1500000.00
+Rutuja,Ganesh,Mali,Female,Mumbai,B.Com.,Graphic Designer,1500000.00
+Mayur,Shankar,Chavan,Female,Pune,BCA,Bank Officer,1500000.00
+Siddharth,Prakash,Pote,Female,Pune,M.Com.,HR Executive,1500000.00
+Sanket,Nitin,Salunkhe,Female,Mumbai,MCA,Project Manager,1500000.00
+Sanket,Nitin,Salunkhe,Female,Mumbai,MCA,Project Manager,1500000.00
+Aditi,Santosh,Desai,Female,Pune,M.Com.,Bank Officer,1500000.00
+Nilesh,Santosh,Joshi,Female,Pune,Diploma in Computer Engineering,Business Owner,1500000.00
+Rutuja,Ganesh,Mali,Female,Mumbai,B.Com.,Graphic Designer,1500000.00
+Mayur,Shankar,Chavan,Female,Pune,BCA,Bank Officer,1500000.00
+Kunal,Ganesh,Pawar,Female,Mumbai,BBA,Software Engineer,1500000.00
+Bhakti,Santosh,Ghatge,Female,Mumbai,B.E. Computer Science,Bank Officer,1500000.00
+Siddharth,Prakash,Pote,Female,Pune,M.Com.,HR Executive,1500000.00
+Nilesh,Santosh,Joshi,Female,Pune,Diploma in Computer Engineering,Business Owner,1500000.00
+Chetan,Shankar,Mane,Female,Mumbai,MCA,Sales Executive,1500000.00
+Aditi,Santosh,Desai,Female,Pune,M.Com.,Bank Officer,1500000.00
+Kunal,Ganesh,Pawar,Female,Mumbai,BBA,Software Engineer,1500000.00
+Kunal,Ganesh,Pawar,Female,Mumbai,BBA,Software Engineer,1500000.00
+Rutuja,Ganesh,Mali,Female,Mumbai,B.Com.,Graphic Designer,1500000.00
+Bhakti,Santosh,Ghatge,Female,Mumbai,B.E. Computer Science,Bank Officer,1500000.00
+Mayur,Shankar,Chavan,Female,Pune,BCA,Bank Officer,1500000.00
+Siddharth,Prakash,Pote,Female,Pune,M.Com.,HR Executive,1500000.00
+Aarav,Ajay,More,Female,Mumbai,Diploma in Computer Engineering,Sales Executive,1500000.00
+Aditi,Santosh,Desai,Female,Pune,M.Com.,Bank Officer,1500000.00
+Nilesh,Santosh,Joshi,Female,Pune,Diploma in Computer Engineering,Business Owner,1500000.00
+Aditi,Santosh,Desai,Female,Pune,M.Com.,Bank Officer,1500000.00
+Shubham,Rajendra,Sawant,Female,Mumbai,Diploma in Computer Engineering,Web Developer,1500000.00
+Darshan,Sunil,Gaikwad,Female,Mumbai,B.Com.,Accountant,1500000.00
+Bhakti,Santosh,Ghatge,Female,Mumbai,B.E. Computer Science,Bank Officer,1500000.00
+Rutuja,Ramesh,Pote,Female,Mumbai,BBA,Business Analyst,1500000.00
+Chetan,Shankar,Mane,Female,Mumbai,MCA,Sales Executive,1500000.00
+Chetan,Shankar,Mane,Female,Mumbai,MCA,Sales Executive,1500000.00
+Aarav,Ajay,More,Female,Mumbai,Diploma in Computer Engineering,Sales Executive,1500000.00
+Shubham,Rajendra,Sawant,Female,Mumbai,Diploma in Computer Engineering,Web Developer,1500000.00
+Sameer,Nitin,Chavan,Female,Pune,B.E. Computer Science,Data Analyst,1500000.00
+Bhakti,Santosh,Ghatge,Female,Mumbai,B.E. Computer Science,Bank Officer,1500000.00
+Aarav,Ajay,More,Female,Mumbai,Diploma in Computer Engineering,Sales Executive,1500000.00
+Aarav,Ajay,More,Female,Mumbai,Diploma in Computer Engineering,Sales Executive,1500000.00
+Darshan,Ramesh,More,Female,Mumbai,B.E. Computer Science,Sales Executive,1500000.00
+Shubham,Rajendra,Sawant,Female,Mumbai,Diploma in Computer Engineering,Web Developer,1500000.00
+Darshan,Sunil,Gaikwad,Female,Mumbai,B.Com.,Accountant,1500000.00
+Shubham,Rajendra,Sawant,Female,Mumbai,Diploma in Computer Engineering,Web Developer,1500000.00
+Darshan,Sunil,Gaikwad,Female,Mumbai,B.Com.,Accountant,1500000.00
+Rahul,Ganesh,Chavan,Female,Mumbai,B.Sc. Computer Science,Project Manager,1500000.00
+Rutuja,Ramesh,Pote,Female,Mumbai,BBA,Business Analyst,1500000.00
+Rutuja,Ramesh,Pote,Female,Mumbai,BBA,Business Analyst,1500000.00
+Darshan,Ramesh,More,Female,Mumbai,B.E. Computer Science,Sales Executive,1500000.00
+Sanket,Nitin,Salunkhe,Female,Mumbai,MCA,Project Manager,1500000.00
+Rutuja,Ganesh,Mali,Female,Mumbai,B.Com.,Graphic Designer,1500000.00
+Sameer,Nitin,Chavan,Female,Pune,B.E. Computer Science,Data Analyst,1500000.00
+Kunal,Ganesh,Pawar,Female,Mumbai,BBA,Software Engineer,1500000.00
+Sameer,Nitin,Chavan,Female,Pune,B.E. Computer Science,Data Analyst,1500000.00
+Rahul,Ganesh,Chavan,Female,Mumbai,B.Sc. Computer Science,Project Manager,1500000.00
+Darshan,Ramesh,More,Female,Mumbai,B.E. Computer Science,Sales Executive,1500000.00
+Darshan,Ramesh,More,Female,Mumbai,B.E. Computer Science,Sales Executive,1500000.00
+Siddharth,Prakash,Pote,Female,Pune,M.Com.,HR Executive,1500000.00
+Rahul,Ganesh,Chavan,Female,Mumbai,B.Sc. Computer Science,Project Manager,1500000.00
+Aditi,Santosh,Desai,Female,Pune,M.Com.,Bank Officer,1500000.00
+Sanket,Nitin,Salunkhe,Female,Mumbai,MCA,Project Manager,1500000.00
+Rahul,Ganesh,Chavan,Female,Mumbai,B.Sc. Computer Science,Project Manager,1500000.00
+Mayur,Shankar,Chavan,Female,Pune,BCA,Bank Officer,1500000.00
+Sanket,Nitin,Salunkhe,Female,Mumbai,MCA,Project Manager,1500000.00
+Nilesh,Santosh,Joshi,Female,Pune,Diploma in Computer Engineering,Business Owner,1500000.00
+Chetan,Shankar,Mane,Female,Mumbai,MCA,Sales Executive,1500000.00
+Sanket,Nitin,Salunkhe,Female,Mumbai,MCA,Project Manager,1500000.00
+Kunal,Ganesh,Pawar,Female,Mumbai,BBA,Software Engineer,1500000.00
+Rutuja,Ganesh,Mali,Female,Mumbai,B.Com.,Graphic Designer,1500000.00
+Bhakti,Santosh,Ghatge,Female,Mumbai,B.E. Computer Science,Bank Officer,1500000.00
+Rutuja,Ganesh,Mali,Female,Mumbai,B.Com.,Graphic Designer,1500000.00
+Kunal,Ganesh,Pawar,Female,Mumbai,BBA,Software Engineer,1500000.00
+Aarav,Ajay,More,Female,Mumbai,Diploma in Computer Engineering,Sales Executive,1500000.00
+Siddharth,Prakash,Pote,Female,Pune,M.Com.,HR Executive,1500000.00
+Chetan,Shankar,Mane,Female,Mumbai,MCA,Sales Executive,1500000.00
+Mayur,Shankar,Chavan,Female,Pune,BCA,Bank Officer,1500000.00
+Siddharth,Prakash,Pote,Female,Pune,M.Com.,HR Executive,1500000.00
+Kunal,Vijay,Salunkhe,Female,Pune,BBA,Mechanical Engineer,1200000.00
+Prachi,Rajendra,Shinde,Female,Mumbai,M.Tech Computer Science,HR Executive,1200000.00
+Sonali,Sunil,Pawar,Female,Pune,B.Com.,Data Analyst,1200000.00
+Kunal,Vijay,Salunkhe,Female,Pune,BBA,Mechanical Engineer,1200000.00
+Vidya,Suresh,Sawant,Female,Mumbai,Diploma in Computer Engineering,Mechanical Engineer,1200000.00
+Komal,Madhukar,Inamdar,Female,Mumbai,B.Com.,Project Manager,1200000.00
+Gaurav,Prakash,Kulkarni,Female,Mumbai,B.E. Computer Science,Graphic Designer,1200000.00
+Swati,Suresh,Shinde,Female,Pune,B.Com.,Doctor,1200000.00
+Swati,Suresh,Shinde,Female,Pune,B.Com.,Doctor,1200000.00
+Prachi,Rajendra,Shinde,Female,Mumbai,M.Tech Computer Science,HR Executive,1200000.00
+Sonali,Sunil,Pawar,Female,Pune,B.Com.,Data Analyst,1200000.00
+Ananya,Sunil,Chavan,Female,Pune,BBA,Business Analyst,1200000.00
+Ananya,Sunil,Chavan,Female,Pune,BBA,Business Analyst,1200000.00
+Vidya,Suresh,Sawant,Female,Mumbai,Diploma in Computer Engineering,Mechanical Engineer,1200000.00
+Prachi,Rajendra,Shinde,Female,Mumbai,M.Tech Computer Science,HR Executive,1200000.00
+Sonali,Sunil,Pawar,Female,Pune,B.Com.,Data Analyst,1200000.00
+Sonali,Sunil,Pawar,Female,Pune,B.Com.,Data Analyst,1200000.00
+Vidya,Suresh,Sawant,Female,Mumbai,Diploma in Computer Engineering,Mechanical Engineer,1200000.00
+Komal,Madhukar,Inamdar,Female,Mumbai,B.Com.,Project Manager,1200000.00
+Vidya,Suresh,Sawant,Female,Mumbai,Diploma in Computer Engineering,Mechanical Engineer,1200000.00
+Komal,Madhukar,Inamdar,Female,Mumbai,B.Com.,Project Manager,1200000.00
+Tejas,Suresh,Sawant,Female,Mumbai,BBA,Business Analyst,1200000.00
+Gaurav,Prakash,Kulkarni,Female,Mumbai,B.E. Computer Science,Graphic Designer,1200000.00
+Harsh,Dilip,Pawar,Female,Mumbai,MBA,Sales Executive,1200000.00
+Gaurav,Prakash,Kulkarni,Female,Mumbai,B.E. Computer Science,Graphic Designer,1200000.00
+Ashwini,Prakash,Deshmukh,Female,Mumbai,MBA,Web Developer,1200000.00
+Kunal,Vijay,Salunkhe,Female,Pune,BBA,Mechanical Engineer,1200000.00
+Tejas,Suresh,Sawant,Female,Mumbai,BBA,Business Analyst,1200000.00
+Tejas,Suresh,Sawant,Female,Mumbai,BBA,Business Analyst,1200000.00
+Harsh,Dilip,Pawar,Female,Mumbai,MBA,Sales Executive,1200000.00
+Kunal,Vijay,Salunkhe,Female,Pune,BBA,Mechanical Engineer,1200000.00
+Swati,Suresh,Shinde,Female,Pune,B.Com.,Doctor,1200000.00
+Harsh,Dilip,Pawar,Female,Mumbai,MBA,Sales Executive,1200000.00
+Ashwini,Prakash,Deshmukh,Female,Mumbai,MBA,Web Developer,1200000.00
+Ashwini,Prakash,Deshmukh,Female,Mumbai,MBA,Web Developer,1200000.00
+Swati,Suresh,Shinde,Female,Pune,B.Com.,Doctor,1200000.00
+Ananya,Sunil,Chavan,Female,Pune,BBA,Business Analyst,1200000.00
+Kunal,Vijay,Salunkhe,Female,Pune,BBA,Mechanical Engineer,1200000.00
+Prachi,Rajendra,Shinde,Female,Mumbai,M.Tech Computer Science,HR Executive,1200000.00
+Sonali,Sunil,Pawar,Female,Pune,B.Com.,Data Analyst,1200000.00
+Ananya,Sunil,Chavan,Female,Pune,BBA,Business Analyst,1200000.00
+Vidya,Suresh,Sawant,Female,Mumbai,Diploma in Computer Engineering,Mechanical Engineer,1200000.00
+Komal,Madhukar,Inamdar,Female,Mumbai,B.Com.,Project Manager,1200000.00
+Kunal,Vijay,Salunkhe,Female,Pune,BBA,Mechanical Engineer,1200000.00
+Swati,Suresh,Shinde,Female,Pune,B.Com.,Doctor,1200000.00
+Sonali,Sunil,Pawar,Female,Pune,B.Com.,Data Analyst,1200000.00
+Komal,Madhukar,Inamdar,Female,Mumbai,B.Com.,Project Manager,1200000.00
+Swati,Suresh,Shinde,Female,Pune,B.Com.,Doctor,1200000.00
+Gaurav,Prakash,Kulkarni,Female,Mumbai,B.E. Computer Science,Graphic Designer,1200000.00
+Ananya,Sunil,Chavan,Female,Pune,BBA,Business Analyst,1200000.00
+Prachi,Rajendra,Shinde,Female,Mumbai,M.Tech Computer Science,HR Executive,1200000.00
+Sonali,Sunil,Pawar,Female,Pune,B.Com.,Data Analyst,1200000.00
+Prachi,Rajendra,Shinde,Female,Mumbai,M.Tech Computer Science,HR Executive,1200000.00
+Vidya,Suresh,Sawant,Female,Mumbai,Diploma in Computer Engineering,Mechanical Engineer,1200000.00
+Komal,Madhukar,Inamdar,Female,Mumbai,B.Com.,Project Manager,1200000.00
+Tejas,Suresh,Sawant,Female,Mumbai,BBA,Business Analyst,1200000.00
+Ananya,Sunil,Chavan,Female,Pune,BBA,Business Analyst,1200000.00
+Vidya,Suresh,Sawant,Female,Mumbai,Diploma in Computer Engineering,Mechanical Engineer,1200000.00
+Gaurav,Prakash,Kulkarni,Female,Mumbai,B.E. Computer Science,Graphic Designer,1200000.00
+Tejas,Suresh,Sawant,Female,Mumbai,BBA,Business Analyst,1200000.00
+Komal,Madhukar,Inamdar,Female,Mumbai,B.Com.,Project Manager,1200000.00
+Gaurav,Prakash,Kulkarni,Female,Mumbai,B.E. Computer Science,Graphic Designer,1200000.00
+Gaurav,Prakash,Kulkarni,Female,Mumbai,B.E. Computer Science,Graphic Designer,1200000.00
+Harsh,Dilip,Pawar,Female,Mumbai,MBA,Sales Executive,1200000.00
+Ashwini,Prakash,Deshmukh,Female,Mumbai,MBA,Web Developer,1200000.00
+Tejas,Suresh,Sawant,Female,Mumbai,BBA,Business Analyst,1200000.00
+Harsh,Dilip,Pawar,Female,Mumbai,MBA,Sales Executive,1200000.00
+Kunal,Vijay,Salunkhe,Female,Pune,BBA,Mechanical Engineer,1200000.00
+Tejas,Suresh,Sawant,Female,Mumbai,BBA,Business Analyst,1200000.00
+Ashwini,Prakash,Deshmukh,Female,Mumbai,MBA,Web Developer,1200000.00
+Harsh,Dilip,Pawar,Female,Mumbai,MBA,Sales Executive,1200000.00
+Harsh,Dilip,Pawar,Female,Mumbai,MBA,Sales Executive,1200000.00
+Swati,Suresh,Shinde,Female,Pune,B.Com.,Doctor,1200000.00
+Ashwini,Prakash,Deshmukh,Female,Mumbai,MBA,Web Developer,1200000.00
+Prachi,Rajendra,Shinde,Female,Mumbai,M.Tech Computer Science,HR Executive,1200000.00
+Ashwini,Prakash,Deshmukh,Female,Mumbai,MBA,Web Developer,1200000.00
+Ananya,Sunil,Chavan,Female,Pune,BBA,Business Analyst,1200000.00
+Vijay,Mohan,Inamdar,Female,Mumbai,B.Com.,Teacher,900000.00
+Vijay,Mohan,Inamdar,Female,Mumbai,B.Com.,Teacher,900000.00
+Rohan,Ajay,Pawar,Female,Mumbai,B.E. Computer Science,Business Analyst,900000.00
+Priya,Suresh,Deshmukh,Female,Pune,M.Com.,Project Manager,900000.00
+Sakshi,Santosh,Pawar,Female,Mumbai,B.Sc. Computer Science,Mechanical Engineer,900000.00
+Sakshi,Santosh,Pawar,Female,Mumbai,B.Sc. Computer Science,Mechanical Engineer,900000.00
+Anjali,Vijay,Sawant,Female,Pune,B.Com.,Sales Executive,900000.00
+Atharv,Ramesh,Shinde,Female,Pune,M.Tech Computer Science,Bank Officer,900000.00
+Diya,Ganesh,Gaikwad,Female,Pune,M.Tech Computer Science,Mechanical Engineer,900000.00
+Vijay,Santosh,Bhosale,Female,Mumbai,MBA,Doctor,900000.00
+Ashwini,Prakash,Salunkhe,Female,Mumbai,B.E. Computer Science,Doctor,900000.00
+Diya,Suresh,Patil,Female,Pune,BCA,Business Analyst,900000.00
+Priya,Suresh,Deshmukh,Female,Pune,M.Com.,Project Manager,900000.00
+Ashwini,Rajendra,Thorat,Female,Pune,BCA,HR Executive,900000.00
+Ashwini,Prakash,Salunkhe,Female,Mumbai,B.E. Computer Science,Doctor,900000.00
+Vidya,Vivek,Shinde,Female,Pune,MCA,Mechanical Engineer,900000.00
+Anjali,Vijay,Sawant,Female,Pune,B.Com.,Sales Executive,900000.00
+Rohan,Shankar,Bhosale,Female,Mumbai,BCA,Business Analyst,900000.00
+Diya,Ganesh,Gaikwad,Female,Pune,M.Tech Computer Science,Mechanical Engineer,900000.00
+Tanvi,Vivek,Mali,Female,Mumbai,B.E. Computer Science,Project Manager,900000.00
+Vijay,Santosh,Bhosale,Female,Mumbai,MBA,Doctor,900000.00
+Ashwini,Prakash,Salunkhe,Female,Mumbai,B.E. Computer Science,Doctor,900000.00
+Anjali,Vijay,Sawant,Female,Pune,B.Com.,Sales Executive,900000.00
+Atharv,Ramesh,Shinde,Female,Pune,M.Tech Computer Science,Bank Officer,900000.00
+Gaurav,Mahesh,Pote,Female,Pune,B.Com.,Mechanical Engineer,900000.00
+Anjali,Vijay,Sawant,Female,Pune,B.Com.,Sales Executive,900000.00
+Atharv,Ramesh,Shinde,Female,Pune,M.Tech Computer Science,Bank Officer,900000.00
+Ashwini,Rajendra,Thorat,Female,Pune,BCA,HR Executive,900000.00
+Diya,Ganesh,Gaikwad,Female,Pune,M.Tech Computer Science,Mechanical Engineer,900000.00
+Vijay,Santosh,Bhosale,Female,Mumbai,MBA,Doctor,900000.00
+Diya,Ganesh,Gaikwad,Female,Pune,M.Tech Computer Science,Mechanical Engineer,900000.00
+Diya,Suresh,Patil,Female,Pune,BCA,Business Analyst,900000.00
+Madhura,Rajendra,Deshmukh,Female,Pune,BBA,Doctor,900000.00
+Arjun,Vivek,Salunkhe,Female,Pune,B.E. Computer Science,Web Developer,900000.00
+Diya,Suresh,Patil,Female,Pune,BCA,Business Analyst,900000.00
+Tanvi,Vivek,Mali,Female,Mumbai,B.E. Computer Science,Project Manager,900000.00
+Prachi,Prakash,Naik,Female,Mumbai,MBA,Project Manager,900000.00
+Vidya,Vivek,Shinde,Female,Pune,MCA,Mechanical Engineer,900000.00
+Ashwini,Rajendra,Thorat,Female,Pune,BCA,HR Executive,900000.00
+Aditi,Suresh,Gaikwad,Female,Pune,B.E. Computer Science,Business Owner,900000.00
+Ashwini,Rajendra,Thorat,Female,Pune,BCA,HR Executive,900000.00
+Ashwini,Prakash,Salunkhe,Female,Mumbai,B.E. Computer Science,Doctor,900000.00
+Vidya,Vivek,Shinde,Female,Pune,MCA,Mechanical Engineer,900000.00
+Aniket,Vivek,Inamdar,Female,Pune,M.Tech Computer Science,Project Manager,900000.00
+Rohan,Ajay,Pawar,Female,Mumbai,B.E. Computer Science,Business Analyst,900000.00
+Gaurav,Mahesh,Pote,Female,Pune,B.Com.,Mechanical Engineer,900000.00
+Rohan,Shankar,Bhosale,Female,Mumbai,BCA,Business Analyst,900000.00
+Vijay,Mohan,Inamdar,Female,Mumbai,B.Com.,Teacher,900000.00
+Rohan,Shankar,Bhosale,Female,Mumbai,BCA,Business Analyst,900000.00
+Tanvi,Vivek,Mali,Female,Mumbai,B.E. Computer Science,Project Manager,900000.00
+Sakshi,Santosh,Pawar,Female,Mumbai,B.Sc. Computer Science,Mechanical Engineer,900000.00
+Madhura,Rajendra,Deshmukh,Female,Pune,BBA,Doctor,900000.00
+Aniket,Vivek,Inamdar,Female,Pune,M.Tech Computer Science,Project Manager,900000.00
+Gaurav,Mahesh,Pote,Female,Pune,B.Com.,Mechanical Engineer,900000.00
+Gaurav,Mahesh,Pote,Female,Pune,B.Com.,Mechanical Engineer,900000.00
+Prachi,Prakash,Naik,Female,Mumbai,MBA,Project Manager,900000.00
+Priya,Suresh,Deshmukh,Female,Pune,M.Com.,Project Manager,900000.00
+Prachi,Prakash,Naik,Female,Mumbai,MBA,Project Manager,900000.00
+Madhura,Rajendra,Deshmukh,Female,Pune,BBA,Doctor,900000.00
+Arjun,Vivek,Salunkhe,Female,Pune,B.E. Computer Science,Web Developer,900000.00
+Madhura,Rajendra,Deshmukh,Female,Pune,BBA,Doctor,900000.00
+Arjun,Vivek,Salunkhe,Female,Pune,B.E. Computer Science,Web Developer,900000.00
+Aniket,Vivek,Inamdar,Female,Pune,M.Tech Computer Science,Project Manager,900000.00
+Aditi,Suresh,Gaikwad,Female,Pune,B.E. Computer Science,Business Owner,900000.00
+Aditi,Suresh,Gaikwad,Female,Pune,B.E. Computer Science,Business Owner,900000.00
+Vijay,Mohan,Inamdar,Female,Mumbai,B.Com.,Teacher,900000.00
+Rohan,Ajay,Pawar,Female,Mumbai,B.E. Computer Science,Business Analyst,900000.00
+Rohan,Ajay,Pawar,Female,Mumbai,B.E. Computer Science,Business Analyst,900000.00
+Vijay,Mohan,Inamdar,Female,Mumbai,B.Com.,Teacher,900000.00
+Sakshi,Santosh,Pawar,Female,Mumbai,B.Sc. Computer Science,Mechanical Engineer,900000.00
+Sakshi,Santosh,Pawar,Female,Mumbai,B.Sc. Computer Science,Mechanical Engineer,900000.00
+Anjali,Vijay,Sawant,Female,Pune,B.Com.,Sales Executive,900000.00
+Atharv,Ramesh,Shinde,Female,Pune,M.Tech Computer Science,Bank Officer,900000.00
+Diya,Ganesh,Gaikwad,Female,Pune,M.Tech Computer Science,Mechanical Engineer,900000.00
+Priya,Suresh,Deshmukh,Female,Pune,M.Com.,Project Manager,900000.00
+Priya,Suresh,Deshmukh,Female,Pune,M.Com.,Project Manager,900000.00
+Diya,Suresh,Patil,Female,Pune,BCA,Business Analyst,900000.00
+Diya,Ganesh,Gaikwad,Female,Pune,M.Tech Computer Science,Mechanical Engineer,900000.00
+Vijay,Santosh,Bhosale,Female,Mumbai,MBA,Doctor,900000.00
+Ashwini,Prakash,Salunkhe,Female,Mumbai,B.E. Computer Science,Doctor,900000.00
+Vidya,Vivek,Shinde,Female,Pune,MCA,Mechanical Engineer,900000.00
+Atharv,Ramesh,Shinde,Female,Pune,M.Tech Computer Science,Bank Officer,900000.00
+Ashwini,Rajendra,Thorat,Female,Pune,BCA,HR Executive,900000.00
+Diya,Suresh,Patil,Female,Pune,BCA,Business Analyst,900000.00
+Vidya,Vivek,Shinde,Female,Pune,MCA,Mechanical Engineer,900000.00
+Rohan,Shankar,Bhosale,Female,Mumbai,BCA,Business Analyst,900000.00
+Diya,Ganesh,Gaikwad,Female,Pune,M.Tech Computer Science,Mechanical Engineer,900000.00
+Vijay,Santosh,Bhosale,Female,Mumbai,MBA,Doctor,900000.00
+Anjali,Vijay,Sawant,Female,Pune,B.Com.,Sales Executive,900000.00
+Gaurav,Mahesh,Pote,Female,Pune,B.Com.,Mechanical Engineer,900000.00
+Anjali,Vijay,Sawant,Female,Pune,B.Com.,Sales Executive,900000.00
+Atharv,Ramesh,Shinde,Female,Pune,M.Tech Computer Science,Bank Officer,900000.00
+Diya,Suresh,Patil,Female,Pune,BCA,Business Analyst,900000.00
+Tanvi,Vivek,Mali,Female,Mumbai,B.E. Computer Science,Project Manager,900000.00
+Prachi,Prakash,Naik,Female,Mumbai,MBA,Project Manager,900000.00
+Madhura,Rajendra,Deshmukh,Female,Pune,BBA,Doctor,900000.00
+Ashwini,Rajendra,Thorat,Female,Pune,BCA,HR Executive,900000.00
+Vijay,Santosh,Bhosale,Female,Mumbai,MBA,Doctor,900000.00
+Ashwini,Prakash,Salunkhe,Female,Mumbai,B.E. Computer Science,Doctor,900000.00
+Vijay,Santosh,Bhosale,Female,Mumbai,MBA,Doctor,900000.00
+Ashwini,Prakash,Salunkhe,Female,Mumbai,B.E. Computer Science,Doctor,900000.00
+Vidya,Vivek,Shinde,Female,Pune,MCA,Mechanical Engineer,900000.00
+Atharv,Ramesh,Shinde,Female,Pune,M.Tech Computer Science,Bank Officer,900000.00
+Ashwini,Rajendra,Thorat,Female,Pune,BCA,HR Executive,900000.00
+Aditi,Suresh,Gaikwad,Female,Pune,B.E. Computer Science,Business Owner,900000.00
+Madhura,Rajendra,Deshmukh,Female,Pune,BBA,Doctor,900000.00
+Arjun,Vivek,Salunkhe,Female,Pune,B.E. Computer Science,Web Developer,900000.00
+Rohan,Shankar,Bhosale,Female,Mumbai,BCA,Business Analyst,900000.00
+Prachi,Prakash,Naik,Female,Mumbai,MBA,Project Manager,900000.00
+Rohan,Ajay,Pawar,Female,Mumbai,B.E. Computer Science,Business Analyst,900000.00
+Diya,Suresh,Patil,Female,Pune,BCA,Business Analyst,900000.00
+Vidya,Vivek,Shinde,Female,Pune,MCA,Mechanical Engineer,900000.00
+Aniket,Vivek,Inamdar,Female,Pune,M.Tech Computer Science,Project Manager,900000.00
+Tanvi,Vivek,Mali,Female,Mumbai,B.E. Computer Science,Project Manager,900000.00
+Aditi,Suresh,Gaikwad,Female,Pune,B.E. Computer Science,Business Owner,900000.00
+Gaurav,Mahesh,Pote,Female,Pune,B.Com.,Mechanical Engineer,900000.00
+Rohan,Shankar,Bhosale,Female,Mumbai,BCA,Business Analyst,900000.00
+Vijay,Mohan,Inamdar,Female,Mumbai,B.Com.,Teacher,900000.00
+Rohan,Shankar,Bhosale,Female,Mumbai,BCA,Business Analyst,900000.00
+Gaurav,Mahesh,Pote,Female,Pune,B.Com.,Mechanical Engineer,900000.00
+Rohan,Ajay,Pawar,Female,Mumbai,B.E. Computer Science,Business Analyst,900000.00
+Sakshi,Santosh,Pawar,Female,Mumbai,B.Sc. Computer Science,Mechanical Engineer,900000.00
+Madhura,Rajendra,Deshmukh,Female,Pune,BBA,Doctor,900000.00
+Arjun,Vivek,Salunkhe,Female,Pune,B.E. Computer Science,Web Developer,900000.00
+Tanvi,Vivek,Mali,Female,Mumbai,B.E. Computer Science,Project Manager,900000.00
+Priya,Suresh,Deshmukh,Female,Pune,M.Com.,Project Manager,900000.00
+Tanvi,Vivek,Mali,Female,Mumbai,B.E. Computer Science,Project Manager,900000.00
+Prachi,Prakash,Naik,Female,Mumbai,MBA,Project Manager,900000.00
+Aditi,Suresh,Gaikwad,Female,Pune,B.E. Computer Science,Business Owner,900000.00
+Aniket,Vivek,Inamdar,Female,Pune,M.Tech Computer Science,Project Manager,900000.00
+Rohan,Ajay,Pawar,Female,Mumbai,B.E. Computer Science,Business Analyst,900000.00
+Arjun,Vivek,Salunkhe,Female,Pune,B.E. Computer Science,Web Developer,900000.00
+Arjun,Vivek,Salunkhe,Female,Pune,B.E. Computer Science,Web Developer,900000.00
+Vijay,Mohan,Inamdar,Female,Mumbai,B.Com.,Teacher,900000.00
+Prachi,Prakash,Naik,Female,Mumbai,MBA,Project Manager,900000.00
+Priya,Suresh,Deshmukh,Female,Pune,M.Com.,Project Manager,900000.00
+Sakshi,Santosh,Pawar,Female,Mumbai,B.Sc. Computer Science,Mechanical Engineer,900000.00
+Aniket,Vivek,Inamdar,Female,Pune,M.Tech Computer Science,Project Manager,900000.00
+Aniket,Vivek,Inamdar,Female,Pune,M.Tech Computer Science,Project Manager,900000.00
+Aditi,Suresh,Gaikwad,Female,Pune,B.E. Computer Science,Business Owner,900000.00
+Ashwini,Madhukar,Kulkarni,Female,Pune,B.Sc. Computer Science,Business Owner,720000.00
+Deepak,Milind,Jadhav,Female,Pune,M.Tech Computer Science,Business Owner,720000.00
+Sagar,Prakash,More,Female,Mumbai,M.Sc. IT,Teacher,720000.00
+Vidya,Dilip,Pawar,Female,Mumbai,B.Sc. Computer Science,Data Analyst,720000.00
+Sneha,Vijay,Kulkarni,Female,Mumbai,BCA,Civil Engineer,720000.00
+Megha,Sunil,More,Female,Pune,M.Tech Computer Science,Accountant,720000.00
+Sneha,Vijay,Kulkarni,Female,Mumbai,BCA,Civil Engineer,720000.00
+Megha,Sunil,More,Female,Pune,M.Tech Computer Science,Accountant,720000.00
+Vishal,Mahesh,Jadhav,Female,Mumbai,M.Tech Computer Science,HR Executive,720000.00
+Sagar,Prakash,More,Female,Mumbai,M.Sc. IT,Teacher,720000.00
+Arjun,Ravindra,Jadhav,Female,Mumbai,M.Sc. IT,Sales Executive,720000.00
+Ashwini,Madhukar,Kulkarni,Female,Pune,B.Sc. Computer Science,Business Owner,720000.00
+Vidya,Dilip,Pawar,Female,Mumbai,B.Sc. Computer Science,Data Analyst,720000.00
+Anjali,Sunil,Kadam,Female,Pune,BCA,Civil Engineer,720000.00
+Deepak,Milind,Jadhav,Female,Pune,M.Tech Computer Science,Business Owner,720000.00
+Nilesh,Mohan,Khot,Female,Mumbai,MBA,Business Owner,720000.00
+Neha,Ajay,Kulkarni,Female,Mumbai,BBA,Software Engineer,720000.00
+Nilesh,Mohan,Khot,Female,Mumbai,MBA,Business Owner,720000.00
+Vidya,Dilip,Pawar,Female,Mumbai,B.Sc. Computer Science,Data Analyst,720000.00
+Anjali,Sunil,Kadam,Female,Pune,BCA,Civil Engineer,720000.00
+Arjun,Ravindra,Jadhav,Female,Mumbai,M.Sc. IT,Sales Executive,720000.00
+Neha,Ajay,Kulkarni,Female,Mumbai,BBA,Software Engineer,720000.00
+Deepak,Milind,Jadhav,Female,Pune,M.Tech Computer Science,Business Owner,720000.00
+Arjun,Ravindra,Jadhav,Female,Mumbai,M.Sc. IT,Sales Executive,720000.00
+Vishal,Dattatray,Chavan,Female,Mumbai,BCA,HR Executive,720000.00
+Tejas,Nitin,Inamdar,Female,Mumbai,M.Com.,HR Executive,720000.00
+Arjun,Ravindra,Jadhav,Female,Mumbai,M.Sc. IT,Sales Executive,720000.00
+Neha,Ajay,Kulkarni,Female,Mumbai,BBA,Software Engineer,720000.00
+Neha,Ajay,Kulkarni,Female,Mumbai,BBA,Software Engineer,720000.00
+Vishal,Dattatray,Chavan,Female,Mumbai,BCA,HR Executive,720000.00
+Tejas,Nitin,Inamdar,Female,Mumbai,M.Com.,HR Executive,720000.00
+Pranav,Vivek,Sawant,Female,Mumbai,B.Com.,Civil Engineer,720000.00
+Sneha,Vijay,Kulkarni,Female,Mumbai,BCA,Civil Engineer,720000.00
+Vishal,Dattatray,Chavan,Female,Mumbai,BCA,HR Executive,720000.00
+Tejas,Nitin,Inamdar,Female,Mumbai,M.Com.,HR Executive,720000.00
+Vishal,Mahesh,Jadhav,Female,Mumbai,M.Tech Computer Science,HR Executive,720000.00
+Ashwini,Madhukar,Kulkarni,Female,Pune,B.Sc. Computer Science,Business Owner,720000.00
+Sagar,Prakash,More,Female,Mumbai,M.Sc. IT,Teacher,720000.00
+Vidya,Dilip,Pawar,Female,Mumbai,B.Sc. Computer Science,Data Analyst,720000.00
+Anjali,Sunil,Kadam,Female,Pune,BCA,Civil Engineer,720000.00
+Sneha,Vijay,Kulkarni,Female,Mumbai,BCA,Civil Engineer,720000.00
+Megha,Sunil,More,Female,Pune,M.Tech Computer Science,Accountant,720000.00
+Pranav,Vivek,Sawant,Female,Mumbai,B.Com.,Civil Engineer,720000.00
+Anjali,Sunil,Kadam,Female,Pune,BCA,Civil Engineer,720000.00
+Deepak,Milind,Jadhav,Female,Pune,M.Tech Computer Science,Business Owner,720000.00
+Nilesh,Mohan,Khot,Female,Mumbai,MBA,Business Owner,720000.00
+Megha,Sunil,More,Female,Pune,M.Tech Computer Science,Accountant,720000.00
+Vishal,Mahesh,Jadhav,Female,Mumbai,M.Tech Computer Science,HR Executive,720000.00
+Arjun,Ravindra,Jadhav,Female,Mumbai,M.Sc. IT,Sales Executive,720000.00
+Vishal,Mahesh,Jadhav,Female,Mumbai,M.Tech Computer Science,HR Executive,720000.00
+Sagar,Prakash,More,Female,Mumbai,M.Sc. IT,Teacher,720000.00
+Pranav,Vivek,Sawant,Female,Mumbai,B.Com.,Civil Engineer,720000.00
+Pranav,Vivek,Sawant,Female,Mumbai,B.Com.,Civil Engineer,720000.00
+Sneha,Vijay,Kulkarni,Female,Mumbai,BCA,Civil Engineer,720000.00
+Ashwini,Madhukar,Kulkarni,Female,Pune,B.Sc. Computer Science,Business Owner,720000.00
+Ashwini,Madhukar,Kulkarni,Female,Pune,B.Sc. Computer Science,Business Owner,720000.00
+Megha,Sunil,More,Female,Pune,M.Tech Computer Science,Accountant,720000.00
+Nilesh,Mohan,Khot,Female,Mumbai,MBA,Business Owner,720000.00
+Sagar,Prakash,More,Female,Mumbai,M.Sc. IT,Teacher,720000.00
+Vidya,Dilip,Pawar,Female,Mumbai,B.Sc. Computer Science,Data Analyst,720000.00
+Sagar,Prakash,More,Female,Mumbai,M.Sc. IT,Teacher,720000.00
+Vidya,Dilip,Pawar,Female,Mumbai,B.Sc. Computer Science,Data Analyst,720000.00
+Anjali,Sunil,Kadam,Female,Pune,BCA,Civil Engineer,720000.00
+Sneha,Vijay,Kulkarni,Female,Mumbai,BCA,Civil Engineer,720000.00
+Megha,Sunil,More,Female,Pune,M.Tech Computer Science,Accountant,720000.00
+Nilesh,Mohan,Khot,Female,Mumbai,MBA,Business Owner,720000.00
+Anjali,Sunil,Kadam,Female,Pune,BCA,Civil Engineer,720000.00
+Deepak,Milind,Jadhav,Female,Pune,M.Tech Computer Science,Business Owner,720000.00
+Deepak,Milind,Jadhav,Female,Pune,M.Tech Computer Science,Business Owner,720000.00
+Nilesh,Mohan,Khot,Female,Mumbai,MBA,Business Owner,720000.00
+Neha,Ajay,Kulkarni,Female,Mumbai,BBA,Software Engineer,720000.00
+Arjun,Ravindra,Jadhav,Female,Mumbai,M.Sc. IT,Sales Executive,720000.00
+Arjun,Ravindra,Jadhav,Female,Mumbai,M.Sc. IT,Sales Executive,720000.00
+Vishal,Dattatray,Chavan,Female,Mumbai,BCA,HR Executive,720000.00
+Vishal,Dattatray,Chavan,Female,Mumbai,BCA,HR Executive,720000.00
+Tejas,Nitin,Inamdar,Female,Mumbai,M.Com.,HR Executive,720000.00
+Neha,Ajay,Kulkarni,Female,Mumbai,BBA,Software Engineer,720000.00
+Neha,Ajay,Kulkarni,Female,Mumbai,BBA,Software Engineer,720000.00
+Vishal,Dattatray,Chavan,Female,Mumbai,BCA,HR Executive,720000.00
+Tejas,Nitin,Inamdar,Female,Mumbai,M.Com.,HR Executive,720000.00
+Vishal,Mahesh,Jadhav,Female,Mumbai,M.Tech Computer Science,HR Executive,720000.00
+Pranav,Vivek,Sawant,Female,Mumbai,B.Com.,Civil Engineer,720000.00
+Ashwini,Madhukar,Kulkarni,Female,Pune,B.Sc. Computer Science,Business Owner,720000.00
+Pranav,Vivek,Sawant,Female,Mumbai,B.Com.,Civil Engineer,720000.00
+Sneha,Vijay,Kulkarni,Female,Mumbai,BCA,Civil Engineer,720000.00
+Megha,Sunil,More,Female,Pune,M.Tech Computer Science,Accountant,720000.00
+Tejas,Nitin,Inamdar,Female,Mumbai,M.Com.,HR Executive,720000.00
+Vishal,Mahesh,Jadhav,Female,Mumbai,M.Tech Computer Science,HR Executive,720000.00
+Sagar,Prakash,More,Female,Mumbai,M.Sc. IT,Teacher,720000.00
+Vishal,Dattatray,Chavan,Female,Mumbai,BCA,HR Executive,720000.00
+Tejas,Nitin,Inamdar,Female,Mumbai,M.Com.,HR Executive,720000.00
+Ashwini,Madhukar,Kulkarni,Female,Pune,B.Sc. Computer Science,Business Owner,720000.00
+Nilesh,Mohan,Khot,Female,Mumbai,MBA,Business Owner,720000.00
+Vidya,Dilip,Pawar,Female,Mumbai,B.Sc. Computer Science,Data Analyst,720000.00
+Anjali,Sunil,Kadam,Female,Pune,BCA,Civil Engineer,720000.00
+Deepak,Milind,Jadhav,Female,Pune,M.Tech Computer Science,Business Owner,720000.00
+Pranav,Vivek,Sawant,Female,Mumbai,B.Com.,Civil Engineer,720000.00
+Vishal,Mahesh,Jadhav,Female,Mumbai,M.Tech Computer Science,HR Executive,720000.00
+Sneha,Prakash,Ghatge,Female,Mumbai,B.E. Computer Science,Teacher,600000.00
+Siddharth,Ajay,Khot,Female,Mumbai,MCA,HR Executive,600000.00
+Kunal,Milind,Sawant,Female,Mumbai,B.Sc. Computer Science,Civil Engineer,600000.00
+Kunal,Milind,Sawant,Female,Mumbai,B.Sc. Computer Science,Civil Engineer,600000.00
+Sneha,Prakash,Ghatge,Female,Mumbai,B.E. Computer Science,Teacher,600000.00
+Siddharth,Ajay,Khot,Female,Mumbai,MCA,HR Executive,600000.00
+Siddharth,Ajay,Khot,Female,Mumbai,MCA,HR Executive,600000.00
+Rutuja,Nitin,Salunkhe,Female,Mumbai,B.Com.,Teacher,600000.00
+Diya,Suresh,Desai,Female,Mumbai,BBA,Graphic Designer,600000.00
+Sachin,Dattatray,Kadam,Female,Pune,B.E. Computer Science,Teacher,600000.00
+Prachi,Ravindra,Deshmukh,Female,Pune,BCA,Mechanical Engineer,600000.00
+Sneha,Dattatray,Ghatge,Female,Mumbai,B.Sc. Computer Science,Bank Officer,600000.00
+Mayur,Ashok,Chavan,Female,Mumbai,B.Sc. Computer Science,Sales Executive,600000.00
+Sneha,Prakash,Ghatge,Female,Mumbai,B.E. Computer Science,Teacher,600000.00
+Sachin,Dattatray,Kadam,Female,Pune,B.E. Computer Science,Teacher,600000.00
+Rutuja,Nitin,Salunkhe,Female,Mumbai,B.Com.,Teacher,600000.00
+Sneha,Dattatray,Ghatge,Female,Mumbai,B.Sc. Computer Science,Bank Officer,600000.00
+Rohan,Shankar,Shinde,Female,Pune,BCA,HR Executive,600000.00
+Mayur,Ashok,Chavan,Female,Mumbai,B.Sc. Computer Science,Sales Executive,600000.00
+Atharv,Sunil,Yadav,Female,Pune,BBA,HR Executive,600000.00
+Ananya,Madhukar,Jadhav,Female,Mumbai,M.Com.,Web Developer,600000.00
+Rutuja,Nitin,Salunkhe,Female,Mumbai,B.Com.,Teacher,600000.00
+Diya,Suresh,Desai,Female,Mumbai,BBA,Graphic Designer,600000.00
+Sachin,Dattatray,Kadam,Female,Pune,B.E. Computer Science,Teacher,600000.00
+Rohan,Shankar,Shinde,Female,Pune,BCA,HR Executive,600000.00
+Rutuja,Nitin,Salunkhe,Female,Mumbai,B.Com.,Teacher,600000.00
+Diya,Suresh,Desai,Female,Mumbai,BBA,Graphic Designer,600000.00
+Neha,Ramesh,Inamdar,Female,Mumbai,B.Sc. Computer Science,Sales Executive,600000.00
+Mayur,Ashok,Chavan,Female,Mumbai,B.Sc. Computer Science,Sales Executive,600000.00
+Prachi,Ravindra,Deshmukh,Female,Pune,BCA,Mechanical Engineer,600000.00
+Atharv,Sunil,Yadav,Female,Pune,BBA,HR Executive,600000.00
+Prachi,Ravindra,Deshmukh,Female,Pune,BCA,Mechanical Engineer,600000.00
+Sneha,Dattatray,Ghatge,Female,Mumbai,B.Sc. Computer Science,Bank Officer,600000.00
+Mayur,Ashok,Chavan,Female,Mumbai,B.Sc. Computer Science,Sales Executive,600000.00
+Ananya,Madhukar,Jadhav,Female,Mumbai,M.Com.,Web Developer,600000.00
+Neha,Ramesh,Inamdar,Female,Mumbai,B.Sc. Computer Science,Sales Executive,600000.00
+Sneha,Dattatray,Ghatge,Female,Mumbai,B.Sc. Computer Science,Bank Officer,600000.00
+Rohan,Shankar,Shinde,Female,Pune,BCA,HR Executive,600000.00
+Gaurav,Ganesh,Thorat,Female,Mumbai,M.Com.,Business Owner,600000.00
+Ananya,Madhukar,Jadhav,Female,Mumbai,M.Com.,Web Developer,600000.00
+Atharv,Sunil,Yadav,Female,Pune,BBA,HR Executive,600000.00
+Neha,Ramesh,Inamdar,Female,Mumbai,B.Sc. Computer Science,Sales Executive,600000.00
+Neha,Ramesh,Inamdar,Female,Mumbai,B.Sc. Computer Science,Sales Executive,600000.00
+Rohan,Shankar,Shinde,Female,Pune,BCA,HR Executive,600000.00
+Siddharth,Ajay,Khot,Female,Mumbai,MCA,HR Executive,600000.00
+Gaurav,Ganesh,Thorat,Female,Mumbai,M.Com.,Business Owner,600000.00
+Atharv,Sunil,Yadav,Female,Pune,BBA,HR Executive,600000.00
+Ananya,Madhukar,Jadhav,Female,Mumbai,M.Com.,Web Developer,600000.00
+Kunal,Milind,Sawant,Female,Mumbai,B.Sc. Computer Science,Civil Engineer,600000.00
+Gaurav,Ganesh,Thorat,Female,Mumbai,M.Com.,Business Owner,600000.00
+Gaurav,Ganesh,Thorat,Female,Mumbai,M.Com.,Business Owner,600000.00
+Kunal,Milind,Sawant,Female,Mumbai,B.Sc. Computer Science,Civil Engineer,600000.00
+Sneha,Prakash,Ghatge,Female,Mumbai,B.E. Computer Science,Teacher,600000.00
+Siddharth,Ajay,Khot,Female,Mumbai,MCA,HR Executive,600000.00
+Rutuja,Nitin,Salunkhe,Female,Mumbai,B.Com.,Teacher,600000.00
+Diya,Suresh,Desai,Female,Mumbai,BBA,Graphic Designer,600000.00
+Siddharth,Ajay,Khot,Female,Mumbai,MCA,HR Executive,600000.00
+Kunal,Milind,Sawant,Female,Mumbai,B.Sc. Computer Science,Civil Engineer,600000.00
+Mayur,Ashok,Chavan,Female,Mumbai,B.Sc. Computer Science,Sales Executive,600000.00
+Kunal,Milind,Sawant,Female,Mumbai,B.Sc. Computer Science,Civil Engineer,600000.00
+Prachi,Ravindra,Deshmukh,Female,Pune,BCA,Mechanical Engineer,600000.00
+Diya,Suresh,Desai,Female,Mumbai,BBA,Graphic Designer,600000.00
+Sachin,Dattatray,Kadam,Female,Pune,B.E. Computer Science,Teacher,600000.00
+Sneha,Prakash,Ghatge,Female,Mumbai,B.E. Computer Science,Teacher,600000.00
+Prachi,Ravindra,Deshmukh,Female,Pune,BCA,Mechanical Engineer,600000.00
+Sneha,Dattatray,Ghatge,Female,Mumbai,B.Sc. Computer Science,Bank Officer,600000.00
+Sneha,Prakash,Ghatge,Female,Mumbai,B.E. Computer Science,Teacher,600000.00
+Sneha,Prakash,Ghatge,Female,Mumbai,B.E. Computer Science,Teacher,600000.00
+Rutuja,Nitin,Salunkhe,Female,Mumbai,B.Com.,Teacher,600000.00
+Neha,Ramesh,Inamdar,Female,Mumbai,B.Sc. Computer Science,Sales Executive,600000.00
+Rutuja,Nitin,Salunkhe,Female,Mumbai,B.Com.,Teacher,600000.00
+Diya,Suresh,Desai,Female,Mumbai,BBA,Graphic Designer,600000.00
+Sachin,Dattatray,Kadam,Female,Pune,B.E. Computer Science,Teacher,600000.00
+Rohan,Shankar,Shinde,Female,Pune,BCA,HR Executive,600000.00
+Prachi,Ravindra,Deshmukh,Female,Pune,BCA,Mechanical Engineer,600000.00
+Mayur,Ashok,Chavan,Female,Mumbai,B.Sc. Computer Science,Sales Executive,600000.00
+Ananya,Madhukar,Jadhav,Female,Mumbai,M.Com.,Web Developer,600000.00
+Mayur,Ashok,Chavan,Female,Mumbai,B.Sc. Computer Science,Sales Executive,600000.00
+Atharv,Sunil,Yadav,Female,Pune,BBA,HR Executive,600000.00
+Diya,Suresh,Desai,Female,Mumbai,BBA,Graphic Designer,600000.00
+Sachin,Dattatray,Kadam,Female,Pune,B.E. Computer Science,Teacher,600000.00
+Sachin,Dattatray,Kadam,Female,Pune,B.E. Computer Science,Teacher,600000.00
+Sneha,Dattatray,Ghatge,Female,Mumbai,B.Sc. Computer Science,Bank Officer,600000.00
+Gaurav,Ganesh,Thorat,Female,Mumbai,M.Com.,Business Owner,600000.00
+Prachi,Ravindra,Deshmukh,Female,Pune,BCA,Mechanical Engineer,600000.00
+Sneha,Dattatray,Ghatge,Female,Mumbai,B.Sc. Computer Science,Bank Officer,600000.00
+Rohan,Shankar,Shinde,Female,Pune,BCA,HR Executive,600000.00
+Neha,Ramesh,Inamdar,Female,Mumbai,B.Sc. Computer Science,Sales Executive,600000.00
+Neha,Ramesh,Inamdar,Female,Mumbai,B.Sc. Computer Science,Sales Executive,600000.00
+Rohan,Shankar,Shinde,Female,Pune,BCA,HR Executive,600000.00
+Atharv,Sunil,Yadav,Female,Pune,BBA,HR Executive,600000.00
+Ananya,Madhukar,Jadhav,Female,Mumbai,M.Com.,Web Developer,600000.00
+Kunal,Milind,Sawant,Female,Mumbai,B.Sc. Computer Science,Civil Engineer,600000.00
+Ananya,Madhukar,Jadhav,Female,Mumbai,M.Com.,Web Developer,600000.00
+Atharv,Sunil,Yadav,Female,Pune,BBA,HR Executive,600000.00
+Siddharth,Ajay,Khot,Female,Mumbai,MCA,HR Executive,600000.00
+Gaurav,Ganesh,Thorat,Female,Mumbai,M.Com.,Business Owner,600000.00
+Gaurav,Ganesh,Thorat,Female,Mumbai,M.Com.,Business Owner,600000.00
